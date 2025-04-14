@@ -6,7 +6,7 @@ export default function Skills({ skills }) {
   return (
     <section className="slds-p-around_xx-large" style={{ backgroundColor: darkMode ? '#1c2b39' : '#fff' }}>
       <div className="slds-container_medium">
-        <h2 className="slds-text-heading_large slds-m-bottom_medium slds-border_bottom">
+        <h2 className="slds-text-heading_large slds-m-bottom_medium">
           Technical Skills
         </h2>
         

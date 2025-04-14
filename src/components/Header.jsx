@@ -9,6 +9,8 @@ export default function Header() {
           <div className="slds-grid">
             <Link to="/" className="slds-p-horizontal_small">Home</Link>
             <Link to="/contact" className="slds-p-horizontal_small">Contact</Link>
+            <a href="https://www.salesforce.com/trailblazer/mbrennan77" className="slds-p-horizontal_small">Trailhead</a>
+            <a href="https://github.com/Matthew-Brennan" className="slds-p-horizontal_small">Github</a>
           </div>
           <div className="slds-grid slds-grid_vertical-align-center">
             <ThemeToggle />
